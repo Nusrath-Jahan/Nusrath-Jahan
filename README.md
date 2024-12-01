@@ -9,4 +9,4 @@
 
 Languages and Tools:
 figma heroku javascript mysql nodejs docker express react tailwind
-docker express figma graphql heroku javascript typescript mysql nodejs react tailwind
+
