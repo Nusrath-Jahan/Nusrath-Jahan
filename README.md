@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Connect with me:
-[https://www.linkedin.com/in/anas-barre-93303723a/](https://www.linkedin.com/in/nusrath-jahan-b292721aa/)
+[https://www.linkedin.com/in/nusrath-jahan-b292721aa/]
 
 Languages and Tools:
 figma heroku javascript mysql nodejs docker express react tailwind
