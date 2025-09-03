@@ -1,7 +1,7 @@
 ## Hi, I’m Nusrath 👋
 
 ### 🔭 Currently learning
-React and building web applications.
+React and building full-stack web applications.
 
 ### 🌱 All of my projects
 You can explore all of my projects here on GitHub.
@@ -10,11 +10,11 @@ You can explore all of my projects here on GitHub.
 Email: [nusrathjahan0204@gmail.com](mailto:nusrathjahan0204@gmail.com)
 
 ### ⚡ Connect with me
-[LinkedIn](https://www.linkedin.com/in/nusrath-jahan-b292721aa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nusrath-jahan-b292721aa/)
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Languages & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,3 +24,9 @@ Email: [nusrathjahan0204@gmail.com](mailto:nusrathjahan0204@gmail.com)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Nusrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusrath&show_icons=true&theme=radical)
+
