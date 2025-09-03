@@ -1,20 +1,26 @@
 ## Hi, I’m Nusrath 👋
 
-### 🔭 Currently learning
-React and building full-stack web applications.
-
-### 🌱 All of my projects
-You can explore all of my projects here on GitHub.
-
-### 📫 How to reach me
-Email: [nusrathjahan0204@gmail.com](mailto:nusrathjahan0204@gmail.com)
-
-### ⚡ Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nusrath-jahan-b292721aa/)
+I’m a passionate web developer learning **React** and building modern full-stack applications.  
+I love exploring new tools, improving my skills, and creating meaningful projects. 🚀
 
 ---
 
-### 💻 Languages & Tools
+### 🔭 Currently learning
+- React.js  
+- Node.js / Express  
+- Tailwind CSS
+
+### 🌱 I’m exploring
+- Docker & Heroku deployment  
+- Database management with MySQL  
+
+### 📫 How to reach me
+- Email: [nusrathjahan0204@gmail.com](mailto:nusrathjahan0204@gmail.com)  
+- LinkedIn: [Nusrath Jahan](https://www.linkedin.com/in/nusrath-jahan-b292721aa/)  
+
+---
+
+### ⚡ Languages & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,5 +34,15 @@ Email: [nusrathjahan0204@gmail.com](mailto:nusrathjahan0204@gmail.com)
 ---
 
 ### 📊 GitHub Stats
-![Nusrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusrath&show_icons=true&theme=radical)
+![Nusrath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nusrath&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrath&layout=compact&theme=radical)
 
+---
+
+### ⚡ GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nusrath&theme=radical)
+
+---
+
+### 🌟 Fun Fact
+I enjoy turning creative ideas into working apps, experimenting with new technologies, and learning every day. 💡
