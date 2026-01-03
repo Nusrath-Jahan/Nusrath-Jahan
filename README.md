@@ -45,8 +45,8 @@ I love building small projects and learning new tools every day.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nusrath-Jahan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrath-Jahan&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nusrath-jahan&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrath-jahan&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
