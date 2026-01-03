@@ -5,8 +5,8 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a passionate **Web Developer** who enjoys building clean, user-friendly applications and continuously exploring new technologies.  
-I love turning ideas into real products and learning something new every day.
+I’m a beginner **Web Developer** learning React and full-stack development.  
+I love building small projects and learning new tools every day.
 
 ---
 
@@ -14,8 +14,9 @@ I love turning ideas into real products and learning something new every day.
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
+  </a>
 </p>
 
 ---
@@ -29,12 +30,14 @@ I love turning ideas into real products and learning something new every day.
 
 ---
 
-## 💻 Skills & Tools
+## 💻 Skills
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+  <a href="https://tailwindcss.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
+  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
 </p>
 
@@ -48,7 +51,7 @@ I love turning ideas into real products and learning something new every day.
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Contact Me
 <p align="center">
   <a href="mailto:nusrathjahan0204@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -60,4 +63,4 @@ I love turning ideas into real products and learning something new every day.
 
 ---
 
-⚡ **Fun Fact:** I love transforming ideas into working apps and experimenting with new technologies 💡
+⚡ **Fun Fact:** I enjoy turning ideas into apps and learning new technologies 💡
