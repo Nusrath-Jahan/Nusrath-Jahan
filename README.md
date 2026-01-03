@@ -5,16 +5,20 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a beginner **Web Developer** learning React and full-stack development.  
-I love building small projects and learning new tools every day.
+I’m a beginner **Web Developer** learning **React** and **Full-Stack Development**.  
+I enjoy building small projects, exploring new tools, and improving every day.
 
 ---
 
 ## 🔭 Currently Learning
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-    <a href="https://tailwindcss.com/">
+  <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  </a>
+  <a href="https://tailwindcss.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
   </a>
 </p>
@@ -23,30 +27,44 @@ I love building small projects and learning new tools every day.
 
 ## 🌱 Exploring
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" title="Heroku"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <a href="https://www.docker.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  </a>
+  <a href="https://www.heroku.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" title="Heroku"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  </a>
 </p>
 
 ---
 
 ## 💻 Skills
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
+  <a href="https://www.javascript.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
+  </a>
   <a href="https://tailwindcss.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
   </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+  <a href="https://www.figma.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusrath-jahan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrath-jahan&layout=compact&theme=radical" height="160"/>
+  <!-- Using Profile Summary Card API for hyphenated username -->
+  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nusrath-Jahan&theme=radical)](https://github.com/Nusrath-Jahan)
 </p>
 
 ---
@@ -63,4 +81,4 @@ I love building small projects and learning new tools every day.
 
 ---
 
-⚡ **Fun Fact:** I enjoy turning ideas into apps and learning new technologies 💡
+⚡ **Fun Fact:** I enjoy turning ideas into small projects and learning new technologies every day 💡
