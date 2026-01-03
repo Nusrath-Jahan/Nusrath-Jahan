@@ -1,42 +1,62 @@
-## Hi, I’m Nusrath 👋
-
-I’m a **beginner Web Developer** who enjoys learning new technologies and building small web applications.  
-I’m currently focused on improving my frontend skills and exploring full-stack development.
-
----
-
-## 🌱 What I’m Learning
-- React
-- Node.js
-- Tailwind CSS
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Nusrath+👋;Web+Developer+%7C+React+Enthusiast+%7C+Full-Stack+Explorer+🚀" />
+</p>
 
 ---
 
-## 🔍 Exploring
-- Docker
-- MySQL
-- Deployment tools (Heroku)
+## 👩‍💻 About Me
+I’m a passionate **Web Developer** who enjoys building clean, user-friendly applications and continuously exploring new technologies.  
+I love turning ideas into real products and learning something new every day.
 
 ---
 
-## 💻 Skills
-- JavaScript
-- React
-- Express
-- Tailwind CSS
-- Figma
+## 🔭 Currently Learning
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
+</p>
+
+---
+
+## 🌱 Exploring
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" title="Heroku"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+</p>
+
+---
+
+## 💻 Skills & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nusrath&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nusrath&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nusrath&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-## 📫 Contact Me
-- Email: **nusrathjahan0204@gmail.com**
-- LinkedIn: [Nusrath Jahan](https://www.linkedin.com/in/nusrath-jahan-b292721aa/)
+## 📫 Let’s Connect
+<p align="center">
+  <a href="mailto:nusrathjahan0204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nusrath-jahan-b292721aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nusrath-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-💡 *Fun fact:* I enjoy learning by building and improving small projects every day.
+⚡ **Fun Fact:** I love transforming ideas into working apps and experimenting with new technologies 💡
