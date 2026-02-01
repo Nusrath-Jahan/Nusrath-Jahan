@@ -5,40 +5,33 @@
 ---
 
 ## 👩‍💻 About Me
-I’m a beginner **Web Developer** learning React and full-stack development.  
-I love building small projects and learning new tools every day.
+I am a motivated **Junior Front-End Developer** with a unique background in **MBA (Finance)**. I bridge the gap between business logic and technical implementation, specializing in building responsive, user-friendly web applications. 
+
+* **Current Focus:** Mastering the MERN stack and Scalable Architecture.
+* **The Edge:** My financial background allows me to approach development with a keen eye for ROI, data integrity, and business impact.
+* **Goal:** To contribute to high-impact, collaborative teams where I can grow as a Full-Stack Engineer.
 
 ---
 
-## 🔭 Currently Learning
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-    <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
-  </a>
-</p>
-
----
-
-## 🌱 Exploring
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="45" title="Heroku"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-</p>
-
----
-
-## 💻 Skills
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
-  <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring & Learning
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
 
 ---
@@ -63,4 +56,4 @@ I love building small projects and learning new tools every day.
 
 ---
 
-⚡ **Fun Fact:** I enjoy turning ideas into apps and learning new technologies 💡
+⚡ **Fun Fact:** My MBA background means I don't just write code; I think about the bottom line and how software solves real-world business problems.
