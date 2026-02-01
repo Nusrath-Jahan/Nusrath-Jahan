@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a motivated **Junior Front-End Developer** with a unique background in **MBA (Finance)**. I bridge the gap between business logic and technical implementation, specializing in building responsive, user-friendly web applications. 
+I am a motivated **Junior Full-Stack Developer** with a unique background in **MBA (Finance)**. I bridge the gap between business logic and technical implementation, specializing in building responsive, user-friendly web applications. 
 
 ---
 
@@ -21,13 +21,6 @@ I am a motivated **Junior Front-End Developer** with a unique background in **MB
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusrath-jahan&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrath-jahan&layout=compact&theme=radical" height="160" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Contact Me
 <p align="center">
