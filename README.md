@@ -16,8 +16,7 @@ I am a motivated **Junior Full-Stack Developer** with a unique background in **M
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" title="Next.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" title="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/></p>
 
 ---
 
