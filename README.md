@@ -5,7 +5,7 @@
 ---
 
 ## 👩‍💻 About Me
-I am a motivated **Junior Full-Stack Developer** with a unique background in **MBA (Finance)**. I bridge the gap between business logic and technical implementation, specializing in building responsive, user-friendly web applications. 
+I am a motivated **Full-Stack Developer** with a unique background in **MBA (Finance)**. I bridge the gap between business logic and technical implementation, specializing in building responsive, user-friendly web applications. 
 
 ---
 
