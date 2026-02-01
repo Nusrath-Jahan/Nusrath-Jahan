@@ -7,39 +7,24 @@
 ## 👩‍💻 About Me
 I am a motivated **Junior Front-End Developer** with a unique background in **MBA (Finance)**. I bridge the gap between business logic and technical implementation, specializing in building responsive, user-friendly web applications. 
 
-* **Current Focus:** Mastering the MERN stack and Scalable Architecture.
-* **The Edge:** My financial background allows me to approach development with a keen eye for ROI, data integrity, and business impact.
-* **Goal:** To contribute to high-impact, collaborative teams where I can grow as a Full-Stack Engineer.
-
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="45" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" title="React"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="45" title="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" title="Express"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
-</p>
-
----
-
-## 🌱 Currently Exploring & Learning
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusrath-jahan&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrath-jahan&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nusrath-jahan&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusrath-jahan&layout=compact&theme=radical" height="160" alt="Top Languages" />
 </p>
 
 ---
@@ -53,7 +38,3 @@ I am a motivated **Junior Front-End Developer** with a unique background in **MB
     <img src="https://img.shields.io/badge/LinkedIn-Nusrath-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-⚡ **Fun Fact:** My MBA background means I don't just write code; I think about the bottom line and how software solves real-world business problems.
